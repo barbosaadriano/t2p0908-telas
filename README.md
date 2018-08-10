@@ -19,5 +19,5 @@ conteúdo da aula sobre criação de telas para sistemas
 # Atividades
 - Proceder como nas outras áreas (Fork, Clone, implementação) ao final (commit, push, pull Request).
 - Vamos fazer alguns testes antes de você começar...
-- Há 16 modelos de telas na pasta, escolher 4 telas dentre elas e tentar representá-las.
+- Há 16 modelos de telas na pasta, escolher 1 tela dentre elas e tente representá-la.
 - Não é necessário ficar exatamente igual, mas aproxime o máximo que conseguir.
