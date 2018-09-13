@@ -23,3 +23,5 @@
 hs_err_pid*
 /GraphicUserInterface/nbproject/private/
 /GraphicUserInterface/build/
+/nbproject/private/
+/GraphicUserInterface/dist/
